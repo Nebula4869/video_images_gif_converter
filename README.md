@@ -8,7 +8,7 @@ Convert between video, .gif file, and image sequence
 
 ### Getting Started
 
-1. run "video_images.py" to convert between image sequence and video based on opencv.
+1. Run "video_images.py" to convert between image sequence and video based on opencv.
 
-2. run "images_gif.py" to convert between .gif file and image sequence based on PIL.Image and imageio.
+2. Run "images_gif.py" to convert between .gif file and image sequence based on PIL.Image and imageio.
 
